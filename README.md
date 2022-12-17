@@ -1,0 +1,1 @@
+# firefox-close-duplicate-tabs
